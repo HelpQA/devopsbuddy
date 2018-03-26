@@ -1,7 +1,5 @@
 package com.devopsbuddy.web.i18n;
 
-import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.log;
-
 import java.util.Locale;
 
 import org.slf4j.Logger;
