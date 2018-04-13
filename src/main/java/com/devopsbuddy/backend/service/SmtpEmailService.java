@@ -6,11 +6,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.MailSender;
 import org.springframework.mail.SimpleMailMessage;
 
-/**
- * Real implementation of an email service.
- *
- * Created by tedonema on 22/03/2016.
- */
+
 public class SmtpEmailService extends AbstractEmailService {
 
     /** The application logger */
