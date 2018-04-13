@@ -1,4 +1,4 @@
-package com.devopsbuddy.backend.config;
+package com.devopsbuddy.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
